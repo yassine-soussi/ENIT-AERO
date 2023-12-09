@@ -1,3 +1,4 @@
+## Use Abaqus to read the 3D model prototype "Assemblage1.step"
 # MPU6050 Complementary Filter with Servo Motor Control
 
 This Arduino code utilizes the MPU6050 accelerometer and gyroscope sensor to calculate roll and pitch angles. The complementary filter is employed to fuse data from the accelerometer and gyroscope for improved accuracy. The corrected angles are then used to adjust the speed of two servo motors connected to pins 9 and 10.
